@@ -42,9 +42,6 @@ Here's what it contains:
 * HW11: Classification on cifar10, Transfer learning with ResNet50
 * Final Project: Tile Crack Detection using U-Net
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- GETTING STARTED -->
 ## Tile Crack Detection Project
