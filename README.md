@@ -20,7 +20,6 @@
 -->
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
 ## Computer-Vision
 Computer Vision Course - Fall 2022
 
