@@ -40,24 +40,3 @@ Here's what it contains:
 * HW9: Image skeletonization
 * HW10: LBP, Compactness, Eccentricity, etc
 * HW11: Classification on cifar10, Transfer learning with ResNet50
-* Final Project: Tile Crack Detection using U-Net
-
-
-<!-- GETTING STARTED -->
-## Tile Crack Detection Project
- This project is for detecting tile cracks in images using digital image processing and deep learning. Given a tile image and its pattern, it will give us the crack by a segmentation task, and U-Net was used for this part.
-
-### How to run
-
-In the tile-crack-detection folder, change the directories according to yours and run "run_me.ipynb".
-
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-The final project's segmentation task was done with the help of [Surface Crack Detection](https://github.com/arthurflor23/surface-crack-detection) repository.
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
